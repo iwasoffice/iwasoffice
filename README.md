@@ -1,13 +1,12 @@
 - 👋 Hi, I’m Olawale A. Iwarere Jr. (@iwasoffice)
-- 👀 I’m interested in finance, workflow automation, web development and exploring the intersection of finance and technology.
+- 👀 I’m interested in finance, workflow automation, web development and exploring the intersection of technology and financial systems.
 - 🌱 I’m currently learning advanced techniques and exploring automation tools.
 - 💞️ I’m looking to collaborate on projects involving Taxation, financial modeling, data visualization, automation, and WordPress.
 - 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/olawale-iwarere-jr-5275751aa/) 
-  - [Email](mailto:iwasofficial@outlook.com) 
-  - [Upwork]([https://www.upwork.com/your-profile-link](https://upwork.com/freelancers/~0103946b6310309ded)) 
-  - WhatsApp: [Message me](https://wa.me/2348135703537)
-  - Telegram: [@iwas_official](https://t.me/iwas_official)
+  - Find me: [LinkedIn](https://www.linkedin.com/in/olawale-iwarere-jr-5275751aa/) 
+  - Mail me: [Email](mailto:iwasofficial@outlook.com) 
+  - Hire me: [Upwork](https://www.upwork.com/freelancers/~0103946b6310309ded) 
+  - Message me: [WhatsApp](https://wa.me/2348135703537) | [Telegram](https://t.me/iwas_official)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always excited to discover new ways to streamline processes and save time! (Think > Learn > Do > Automate > Success)
 
