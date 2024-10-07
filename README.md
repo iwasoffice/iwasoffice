@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olawale A. Iwarere Jr. (@iwasoffice)
 - 👀 I’m interested in finance, workflow automation, web development and exploring the intersection of finance and technology.
 - 🌱 I’m currently learning advanced techniques and exploring automation tools.
-- 💞️ I’m looking to collaborate on projects involving financial modeling, data visualization, automation, and WordPress.
+- 💞️ I’m looking to collaborate on projects involving Taxation, financial modeling, data visualization, automation, and WordPress.
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/olawale-iwarere-jr-5275751aa/) 
   - [Email](mailto:iwasofficial@outlook.com) 
