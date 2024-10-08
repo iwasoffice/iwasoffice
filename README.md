@@ -8,7 +8,7 @@
   - Hire me: [Upwork](https://www.upwork.com/freelancers/~0103946b6310309ded) 
   - Message me: [WhatsApp](https://wa.me/2348135703537) | [Telegram](https://t.me/iwas_official)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm always excited to discover new ways to streamline processes and save time! (Think > Learn > Do > Automate > Success)
+- ⚡ Fun fact: I'm always excited to discover new ways to streamline processes and save time! (Think > Learn > Do > Automate > Efficiency > Success)
 
 <!---
 iwasoffice/iwasoffice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
