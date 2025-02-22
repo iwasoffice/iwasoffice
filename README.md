@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚙️ Hobby: I love automating repetitive tasks to free up time for more creative and productive work!
 - 🔎 Fun Fact: I'm always excited to discover new ways to streamline processes and save time!
-- 💡 My motto: Work smarter, not harder. (Think > Learn > Do > Automate > Optimize > Succeed)
+- 💡 My motto: Work smarter, not harder. (Think > Learn > Do > Master > Optimize > Automate > Feedforward)
 - 🛠️ **Skills & Technologies**:  
   - 🤖 **AI Expertise**: Specializing in machine learning, deep learning, and AI model training.  
   - 📊 **Data Science**: Statistical modeling, predictive analytics, and machine learning techniques.  
