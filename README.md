@@ -2,6 +2,10 @@
   👋 Hiya, I'm Wale 
 </h1>
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/C4E16AQFQZr36EVYhmg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1636497118152?e=1747267200&v=beta&t=E-bxQgQti0n1ZeC8ZRqvy7vggUJ1AhIIPwqve5h7Zls" width="100%" />
+</p>
+
 ---
 
 ## 👀 About Me  
@@ -49,7 +53,7 @@
 ---
 
 ### 🚀 Tools & Technologies  
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" title="WordPress"/>
@@ -83,6 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="48%" />
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="48%" />
+  <img src="https://camo.githubusercontent.com/48d30aafc86131bcb77c8085cea9ea944c74ae4f6026127eb5be2d7bae8f285b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" width="33%" />
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="31%" />
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30%" />
 </p>
