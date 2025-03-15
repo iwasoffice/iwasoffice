@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4E16AQFQZr36EVYhmg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1636497118152?e=1747267200&v=beta&t=E-bxQgQti0n1ZeC8ZRqvy7vggUJ1AhIIPwqve5h7Zls" width="100%" title="Just Do It!"/>
+  <img src="https://media.licdn.com/dms/image/v2/C4E16AQFQZr36EVYhmg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1636497118152?e=1747267200&v=beta&t=E-bxQgQti0n1ZeC8ZRqvy7vggUJ1AhIIPwqve5h7Zls" width="100%" title="Execution beats perfection—just do it, gamify the process, learn along the way, and make it happen. What matters most is getting it done!"/>
 </p>
 
 ---
