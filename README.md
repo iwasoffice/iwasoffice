@@ -28,7 +28,7 @@
 ## 😄 More About Me  
 ⚙️ **Hobby:** I love automating repetitive tasks to free up time for more creative and productive work!  
 🔎 **Fun Fact:** Always excited to discover new ways to streamline processes and save time.  
-💡 **Motto:** *Work smarter, not harder.* *(Think → Learn → Do → Master → Automate → Optimize → Feedforward → Steadfast)*  
+💡 **Motto:** *Work smarter, not harder.* *(Think → Learn → Do → Master → Automate → Optimize → Feedforward → Steadfast → Sustain → Evolve)*  
 
 ---
 
