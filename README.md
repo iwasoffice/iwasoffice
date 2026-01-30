@@ -1,9 +1,9 @@
-<h1 align="center"> 
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/d5bc36d6-0735-43cd-a5f4-d6dfdd2eac18" /><h1 align="center"> 
   👋 Hiya, I'm Wale 
 </h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQG0soHyDn8CtQ/profile-displaybackgroundimage-shrink_350_1400/B4DZZEiOO5H4AY-/0/1744906547135?e=1763596800&v=beta&t=E7c1in9IAy3k09FEX-Ew03l_SmxfQOHbdm9bTWbPf_0" width="100%" title="Execution beats perfection: just do it, gamify the process, learn along the way, and make it happen. What matters most is getting it done!"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQG0soHyDn8CtQ/profile-displaybackgroundimage-shrink_350_1400/B4DZZEiOO5H4AY-/0/1744906547135?e=1771459200&v=beta&t=hUZtQ0iNVJTEDmseArlUV06xjzMMpc7Lqh4hhvdagog" width="100%" title="Execution beats perfection: just do it, gamify the process, learn along the way, and make it happen. What matters most is getting it done!"/>
 </p>
 
 ---
